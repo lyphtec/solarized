@@ -32,5 +32,3 @@ or source the `Theme-Solarized.ps1` script from the Console window:
 
     D:\dev\solarized>. Theme-Solarized.ps1
 
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/33e438886530b4283d1ad1e9e86af049 "githalytics.com")](http://githalytics.com/lyphtec/solarized)
