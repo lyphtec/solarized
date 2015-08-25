@@ -784,11 +784,11 @@
         <Foreground Type="CT_RAW" Source="FF66C3E6" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
-        <Background Type="CT_RAW" Source="0ED33682" />
-        <Foreground Type="CT_RAW" Source="FFD33682" />
+        <Background Type="CT_RAW" Source="FF073642" />
+        <Foreground Type="CT_RAW" Source="FF477786" />
       </Color>
       <Color Name="MarkerFormatDefinition/FindHighlight">
-        <Background Type="CT_RAW" Source="FF3F0723" />
+        <Background Type="CT_RAW" Source="FFD33682" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/ScopeHighlight">
@@ -1316,8 +1316,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedWrittenReference">
-        <Background Type="CT_RAW" Source="0ED33682" />
-        <Foreground Type="CT_RAW" Source="FFD33682" />
+        <Background Type="CT_RAW" Source="FF073642" />
+        <Foreground Type="CT_RAW" Source="FF477786" />
       </Color>
       <Color Name="RazorCode">
         <Background Type="CT_RAW" Source="FF003F4F" />
