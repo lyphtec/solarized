@@ -15,7 +15,7 @@ following:
 - Types set to yellow instead of orange
 - XML Doc comments settings
 - Pre-processor directives set to orange
-- Highlighted reference - magenta
+- Find Match Highlight (Ctrl+F) - magenta
 - Some [VsVim](https://visualstudiogallery.msdn.microsoft.com/59ca71b3-a4a3-46ca-8fe1-0e90e3f79329) settings to match overall theme
 
 ## Visual Studio 2013
